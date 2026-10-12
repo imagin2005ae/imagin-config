@@ -1,0 +1,50 @@
+{
+  "brandName": "IMAGIN",
+  "version": "",
+  "tiktok": "yourusername",
+  "avatarUrl": "",
+  "message": "New update available - check my page!",
+  "messageUrl": "",
+  "disabled": false,
+  "disabledMessage": "This tool is currently unavailable.",
+  "hide": [
+    "motionblur"
+  ],
+  "labels": {},
+  "primary": [],
+  "presets": [],
+  "hideSections": [],
+  "buttonOrder": [
+    "adjustments",
+    "precompremap",
+    "precompeach",
+    "matchtime",
+    "nulls",
+    "motionblur",
+    "tile",
+    "hue"
+  ],
+  "layout": {
+    "headerStyle": "left",
+    "avatarShape": "circle",
+    "avatarSize": 50,
+    "showVersion": false,
+    "order": [
+      "header",
+      "settings",
+      "adjPreset",
+      "tools",
+      "myPresets"
+    ]
+  },
+  "theme": {
+    "bg": "#1a1a1a",
+    "button": "#000000",
+    "buttonHover": "#3a3a3a",
+    "line": "#3b3b3b",
+    "text": "#ffffff",
+    "muted": "#8d8d94",
+    "accent": "#4a9eff",
+    "radius": 16
+  }
+}
