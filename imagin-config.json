@@ -8,42 +8,76 @@
   "disabled": false,
   "disabledMessage": "This tool is currently unavailable.",
   "hide": [
+    "rename",
+    "light",
     "motionblur"
   ],
   "labels": {},
   "primary": [],
   "presets": [],
-  "hideSections": [],
+  "hideSections": [
+    "tabs",
+    "settings",
+    "copyStyle"
+  ],
   "buttonOrder": [
-    "adjustments",
     "precompremap",
     "precompeach",
+    "decomp",
+    "sequence",
+    "text",
+    "adjustments",
+    "solid",
+    "invert",
+    "duplicate",
+    "rename",
     "matchtime",
     "nulls",
+    "shape",
+    "camera",
+    "light",
     "motionblur",
     "tile",
-    "hue"
+    "hue",
+    "stretchkeys"
   ],
   "layout": {
     "headerStyle": "left",
-    "avatarShape": "circle",
-    "avatarSize": 50,
+    "avatarShape": "rounded",
+    "avatarSize": 34,
     "showVersion": false,
+    "showAnchor": true,
     "order": [
       "header",
-      "settings",
-      "adjPreset",
+      "tabs",
+      "create",
       "tools",
-      "myPresets"
+      "myPresets",
+      "adjPreset",
+      "settings",
+      "copyStyle"
     ]
   },
+  "look": {
+    "tileAuto": true,
+    "tileSize": 54,
+    "tileShape": "rounded",
+    "buttonShape": "rounded",
+    "labelSize": 10,
+    "iconSize": 18,
+    "buttonWidth": 92,
+    "buttonHeight": 40,
+    "nameSize": 14,
+    "presetSize": "small",
+    "presetFull": false
+  },
   "theme": {
-    "bg": "#1a1a1a",
-    "button": "#000000",
+    "bg": "#000000",
+    "button": "#0d0d0d",
     "buttonHover": "#3a3a3a",
     "line": "#3b3b3b",
     "text": "#ffffff",
-    "muted": "#8d8d94",
+    "muted": "#8d8d96",
     "accent": "#4a9eff",
     "radius": 16
   }
