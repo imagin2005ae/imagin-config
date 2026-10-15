@@ -16,9 +16,8 @@
   "primary": [],
   "presets": [],
   "hideSections": [
-    "tabs",
-    "settings",
-    "copyStyle"
+    "copyStyle",
+    "tabs"
   ],
   "buttonOrder": [
     "precompremap",
@@ -65,11 +64,13 @@
     "buttonShape": "rounded",
     "labelSize": 10,
     "iconSize": 18,
-    "buttonWidth": 92,
+    "buttonWidth": 62,
     "buttonHeight": 40,
     "nameSize": 14,
     "presetSize": "small",
-    "presetFull": false
+    "presetFull": false,
+    "aurora": true,
+    "auroraSpeed": "normal"
   },
   "theme": {
     "bg": "#000000",
