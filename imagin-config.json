@@ -16,7 +16,8 @@
   "primary": [],
   "presets": [],
   "hideSections": [
-    "copyStyle"
+    "copyStyle",
+    "tabs"
   ],
   "buttonOrder": [
     "precompremap",
