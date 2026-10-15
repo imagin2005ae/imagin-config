@@ -81,5 +81,6 @@
     "muted": "#8d8d96",
     "accent": "#4a9eff",
     "radius": 16
-  }
+  },
+  "revoked": []
 }
