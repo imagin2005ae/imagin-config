@@ -73,13 +73,13 @@
     "auroraSpeed": "normal"
   },
   "theme": {
-    "bg": "#000000",
+    "bg": "#1e1e1e",
     "button": "#0d0d0d",
     "buttonHover": "#3a3a3a",
     "line": "#3b3b3b",
-    "text": "#ffffff",
+    "text": "#e6e6e6",
     "muted": "#8d8d96",
-    "accent": "#ffffff",
+    "accent": "#0078d4",
     "radius": 16
   },
   "revoked": []
