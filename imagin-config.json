@@ -4,7 +4,190 @@
   "tiktok": "",
   "profileLink": "",
   "avatarUrl": "",
-  "themesAllowed": [],
+  "themesAllowed": [
+    {
+      "name": "Mono",
+      "t": {
+        "bg": "#0A0A0A",
+        "button": "#141416",
+        "buttonHover": "#1C1C20",
+        "line": "#222226",
+        "text": "#EDEDEF",
+        "label": "#EDEDEF",
+        "muted": "#8A8A93",
+        "accent": "#FFFFFF",
+        "radius": 8
+      }
+    },
+    {
+      "name": "Aurora",
+      "t": {
+        "bg": "#07080d",
+        "button": "#0f1018",
+        "buttonHover": "#181a27",
+        "line": "#1d2030",
+        "text": "#eef0f7",
+        "label": "#eef0f7",
+        "muted": "#7f869c",
+        "accent": "#7b86ff",
+        "radius": 12
+      }
+    },
+    {
+      "name": "Toolkit",
+      "t": {
+        "bg": "#131315",
+        "button": "#1c1c1f",
+        "buttonHover": "#27272b",
+        "line": "#2c2c31",
+        "text": "#ececf0",
+        "label": "#ececf0",
+        "muted": "#7d7d86",
+        "accent": "#4a9eff",
+        "radius": 8
+      }
+    },
+    {
+      "name": "Dark",
+      "t": {
+        "bg": "#1a1a1a",
+        "button": "#2b2b2b",
+        "buttonHover": "#3a3a3a",
+        "line": "#3b3b3b",
+        "text": "#ffffff",
+        "label": "#ffffff",
+        "muted": "#8d8d94",
+        "accent": "#4a9eff",
+        "radius": 6
+      }
+    },
+    {
+      "name": "Midnight",
+      "t": {
+        "bg": "#0f1220",
+        "button": "#1b2038",
+        "buttonHover": "#272e52",
+        "line": "#2c3354",
+        "text": "#eef1ff",
+        "label": "#eef1ff",
+        "muted": "#8b93b8",
+        "accent": "#6c8cff",
+        "radius": 8
+      }
+    },
+    {
+      "name": "Purple",
+      "t": {
+        "bg": "#17101f",
+        "button": "#281a38",
+        "buttonHover": "#38244f",
+        "line": "#3d2a55",
+        "text": "#ffffff",
+        "label": "#ffffff",
+        "muted": "#9a86b3",
+        "accent": "#b266ff",
+        "radius": 8
+      }
+    },
+    {
+      "name": "Ember",
+      "t": {
+        "bg": "#1c1411",
+        "button": "#2e211b",
+        "buttonHover": "#40302a",
+        "line": "#4a382f",
+        "text": "#fff4ec",
+        "label": "#fff4ec",
+        "muted": "#b39787",
+        "accent": "#ff8a3d",
+        "radius": 4
+      }
+    },
+    {
+      "name": "Light",
+      "t": {
+        "bg": "#f2f2f4",
+        "button": "#ffffff",
+        "buttonHover": "#e6e6ea",
+        "line": "#d0d0d6",
+        "text": "#1a1a1a",
+        "label": "#1a1a1a",
+        "muted": "#6d6d75",
+        "accent": "#2f7df6",
+        "radius": 6
+      }
+    },
+    {
+      "name": "Neon green",
+      "t": {
+        "bg": "#06110a",
+        "button": "#0c1f14",
+        "buttonHover": "#143323",
+        "line": "#1d3b27",
+        "text": "#b9ff66",
+        "label": "#d9ffe0",
+        "muted": "#7fbf95",
+        "accent": "#22e07a",
+        "radius": 10
+      }
+    },
+    {
+      "name": "Ocean",
+      "t": {
+        "bg": "#071624",
+        "button": "#0d2236",
+        "buttonHover": "#15314d",
+        "line": "#1c3a55",
+        "text": "#7dd3fc",
+        "label": "#e0f2fe",
+        "muted": "#7fa6c4",
+        "accent": "#38bdf8",
+        "radius": 10
+      }
+    },
+    {
+      "name": "Sunset",
+      "t": {
+        "bg": "#1a0b0e",
+        "button": "#2a1216",
+        "buttonHover": "#3a1a20",
+        "line": "#4a2026",
+        "text": "#ffd2a1",
+        "label": "#ffe9dc",
+        "muted": "#c9958a",
+        "accent": "#ff5e3a",
+        "radius": 10
+      }
+    },
+    {
+      "name": "Purple haze",
+      "t": {
+        "bg": "#120a1f",
+        "button": "#1d1130",
+        "buttonHover": "#2a1944",
+        "line": "#36214f",
+        "text": "#e9d5ff",
+        "label": "#f3e8ff",
+        "muted": "#a58cc4",
+        "accent": "#a855f7",
+        "radius": 10
+      }
+    },
+    {
+      "name": "Blue steel",
+      "t": {
+        "bg": "#1e1e1e",
+        "button": "#212121",
+        "buttonHover": "#3a3a3a",
+        "line": "#3b3b3b",
+        "text": "#ffffff",
+        "label": "#e6e6ea",
+        "muted": "#9a9aa3",
+        "accent": "#0078d4",
+        "radius": 16
+      }
+    }
+  ],
   "message": "",
   "messageUrl": "",
   "disabled": false,
@@ -84,14 +267,14 @@
     "logo": ""
   },
   "theme": {
-    "bg": "#0A0A0A",
+    "bg": "#000000",
     "button": "#141416",
     "buttonHover": "#1C1C20",
     "line": "#222226",
-    "text": "#8c00ff",
-    "label": "#EDEDEF",
-    "muted": "#8A8A93",
-    "accent": "#FFFFFF",
+    "text": "#ffffff",
+    "label": "#ffffff",
+    "muted": "#ffffff",
+    "accent": "#a600ff",
     "radius": 8
   },
   "revoked": []
