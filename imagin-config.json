@@ -2,8 +2,9 @@
   "brandName": "IMAGIN",
   "version": "",
   "tiktok": "",
-  "profileLink": "https://t.me/bbbsnt",
+  "profileLink": "",
   "avatarUrl": "",
+  "themesAllowed": [],
   "message": "",
   "messageUrl": "",
   "disabled": false,
@@ -16,9 +17,7 @@
   "labels": {},
   "primary": [],
   "presets": [],
-  "hideSections": [
-    "copyStyle"
-  ],
+  "hideSections": [],
   "hidePages": [],
   "hideAnims": [],
   "buttonOrder": [
@@ -70,17 +69,26 @@
     "presetSize": "small",
     "presetFull": false,
     "aurora": true,
-    "auroraSpeed": "normal"
+    "auroraSpeed": "normal",
+    "effect": "none",
+    "effectSpeed": 5,
+    "btnAnim": true,
+    "bgImage": "",
+    "bgBlur": 12,
+    "bgDim": 55,
+    "nameFont": "default",
+    "logo": ""
   },
   "theme": {
-    "bg": "#1e1e1e",
-    "button": "#212121",
-    "buttonHover": "#3a3a3a",
-    "line": "#3b3b3b",
-    "text": "#ffffff",
-    "muted": "#ffffff",
-    "accent": "#0078d4",
-    "radius": 16
+    "bg": "#0A0A0A",
+    "button": "#141416",
+    "buttonHover": "#1C1C20",
+    "line": "#222226",
+    "text": "#EDEDEF",
+    "label": "#EDEDEF",
+    "muted": "#8A8A93",
+    "accent": "#FFFFFF",
+    "radius": 8
   },
   "revoked": []
 }
