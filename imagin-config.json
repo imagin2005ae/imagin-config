@@ -201,7 +201,8 @@
   "primary": [],
   "presets": [],
   "hideSections": [
-    "copyStyle"
+    "copyStyle",
+    "adjPreset"
   ],
   "hidePages": [
     "flow"
@@ -245,7 +246,7 @@
   },
   "look": {
     "tileAuto": true,
-    "tileSize": 54,
+    "tileSize": 56,
     "tileShape": "rounded",
     "buttonShape": "rounded",
     "labelSize": 10,
