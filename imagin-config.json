@@ -17,8 +17,12 @@
   "labels": {},
   "primary": [],
   "presets": [],
-  "hideSections": [],
-  "hidePages": [],
+  "hideSections": [
+    "copyStyle"
+  ],
+  "hidePages": [
+    "flow"
+  ],
   "hideAnims": [],
   "buttonOrder": [
     "precompremap",
